@@ -79,7 +79,7 @@ function App() {
     <div className="app-container">
       <div className="content-wrapper">
         <header className="app-header">
-          <h1 className="app-title">🎭 VisionCap !</h1>
+          <h1 className="app-title">🎭 VisionCaption !</h1>
           <p className="app-subtitle">Because Every Picture Deserves a Story !</p>
         </header>
 
