@@ -114,6 +114,7 @@ project-root/
 ├── frontend/
 │   ├── src/
 │   │   └── App.jsx
+│   │   └── App.css
 │   └── public/
 │
 └── README.md
